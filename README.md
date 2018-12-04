@@ -10,3 +10,6 @@ Performs template matching with the initial bounding box to make sure that the h
 If the template doesnt match, KCF tracker fails and quits.
 
 All the above frames are written into the output video.
+
+
+Link to output video : https://drive.google.com/open?id=1ux_lLgEyoe4K-pHfpZLyZL8kzYiCup83
