@@ -12,4 +12,4 @@ If the template doesnt match, KCF tracker fails and quits.
 All the above frames are written into the output video.
 
 
-Link to output video : https://drive.google.com/open?id=1ux_lLgEyoe4K-pHfpZLyZL8kzYiCup83
+Link to output video : https://drive.google.com/file/d/1XEXHGlvc__VpZKHLyyA0sOsxAHLyoi6W/view?usp=sharing
